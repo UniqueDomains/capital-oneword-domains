@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAPITAL one-word domains still available to buy.
 
-This dataset contains 3,735 .CAPITAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,762 .CAPITAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAPITAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=capital-oneword-domains&utm_content=description.top) (3,490) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.CAPITAL one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/capital-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.csv"><b>⬇️ CSV (3.74K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.json"><b>⬇️ JSON (3.74K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.csv"><b>⬇️ CSV (3.76K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.json"><b>⬇️ JSON (3.76K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=capital-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.49K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| abactinal.capital  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abaft.capital      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abashed.capital    | available | 60       | 2%     | 7      |                   |                  |                  |
-| abasic.capital     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abatable.capital   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abatic.capital     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abaxial.capital    | available | 54       | 2%     | 7      |                   |                  |                  |
-| abbatial.capital   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abdicable.capital  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.capital  | available | 82       | 1%     | 9      |                   |                  |                  |
-| abdominous.capital | available | 56       | 1%     | 10     |                   |                  |                  |
-| abducens.capital   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abducent.capital   | available | 68       | 1%     | 8      |                   |                  |                  |
-| abducting.capital  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abenaki.capital    | available | 82       | 3%     | 7      |                   |                  |                  |
-| aberdonian.capital | available | 68       | 1%     | 10     |                   |                  |                  |
-| aberrant.capital   | available | 74       | 7%     | 8      |                   |                  |                  |
-| abeyant.capital    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.capital  | available | 54       | 1%     | 9      |                   |                  |                  |
-| abiding.capital    | available | 106      | 5%     | 7      |                   |                  |                  |
-| abient.capital     | available | 54       | 1%     | 6      |                   |                  |                  |
-| abject.capital     | available | 94       | 8%     | 6      |                   |                  |                  |
-| abkhas.capital     | available | 68       | 1%     | 6      |                   |                  |                  |
-| abkhasian.capital  | available | 78       | 1%     | 9      |                   |                  |                  |
-| abkhaz.capital     | available | 82       | 2%     | 6      |                   |                  |                  |
-| abkhazian.capital  | available | 78       | 1%     | 9      |                   |                  |                  |
-| ablated.capital    | available | 52       | 2%     | 7      |                   |                  |                  |
-| ablative.capital   | available | 68       | 3%     | 8      |                   |                  |                  |
-| ablaze.capital     | available | 72       | 6%     | 6      |                   |                  |                  |
-| able.capital       | resell    | 80       | 32%    | 4      | Sav.com, LLC - 32 | 14/07/2025 15:15 | 14/07/2026 15:15 |
+| Domain             | Status    | Attract. | Demand | Length | Registrar                                   | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | ------------------------------------------- | ---------------- | ---------------- |
+| abactinal.capital  | available | 50       | 1%     | 9      |                                             |                  |                  |
+| abaft.capital      | available | 43       | 2%     | 5      |                                             |                  |                  |
+| abashed.capital    | available | 60       | 2%     | 7      |                                             |                  |                  |
+| abasic.capital     | available | 54       | 2%     | 6      |                                             |                  |                  |
+| abatable.capital   | available | 54       | 1%     | 8      |                                             |                  |                  |
+| abatic.capital     | available | 54       | 2%     | 6      |                                             |                  |                  |
+| abaxial.capital    | available | 54       | 2%     | 7      |                                             |                  |                  |
+| abbatial.capital   | available | 50       | 1%     | 8      |                                             |                  |                  |
+| abc.capital        | resell    | 102      | 41%    | 3      | GoDaddy Online Services Cayman Islands Ltd. | 10/08/2015 22:35 | 10/08/2026 22:35 |
+| abdicable.capital  | available | 50       | 1%     | 9      |                                             |                  |                  |
+| abdominal.capital  | available | 82       | 1%     | 9      |                                             |                  |                  |
+| abdominous.capital | available | 56       | 1%     | 10     |                                             |                  |                  |
+| abducens.capital   | available | 54       | 1%     | 8      |                                             |                  |                  |
+| abducent.capital   | available | 68       | 1%     | 8      |                                             |                  |                  |
+| abducting.capital  | available | 50       | 1%     | 9      |                                             |                  |                  |
+| abenaki.capital    | available | 82       | 3%     | 7      |                                             |                  |                  |
+| aberdonian.capital | available | 68       | 1%     | 10     |                                             |                  |                  |
+| aberrant.capital   | available | 74       | 7%     | 8      |                                             |                  |                  |
+| abeyant.capital    | available | 56       | 2%     | 7      |                                             |                  |                  |
+| abhorrent.capital  | available | 54       | 1%     | 9      |                                             |                  |                  |
+| abiding.capital    | available | 106      | 5%     | 7      |                                             |                  |                  |
+| abient.capital     | available | 54       | 1%     | 6      |                                             |                  |                  |
+| abject.capital     | available | 94       | 8%     | 6      |                                             |                  |                  |
+| abkhas.capital     | available | 68       | 1%     | 6      |                                             |                  |                  |
+| abkhasian.capital  | available | 78       | 1%     | 9      |                                             |                  |                  |
+| abkhaz.capital     | available | 82       | 2%     | 6      |                                             |                  |                  |
+| abkhazian.capital  | available | 78       | 1%     | 9      |                                             |                  |                  |
+| ablated.capital    | available | 52       | 2%     | 7      |                                             |                  |                  |
+| ablative.capital   | available | 68       | 3%     | 8      |                                             |                  |                  |
+| ablaze.capital     | available | 72       | 6%     | 6      |                                             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/capital-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.csv"><b>⬇️ CSV (3.74K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.json"><b>⬇️ JSON (3.74K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.csv"><b>⬇️ CSV (3.76K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/capital-oneword-domains/blob/main/capital.json"><b>⬇️ JSON (3.76K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=capital-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.49K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
