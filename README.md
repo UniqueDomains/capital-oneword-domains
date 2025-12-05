@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAPITAL one-word domains still available to buy.
 
-This dataset contains 3,920 .CAPITAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,922 .CAPITAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAPITAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=capital-oneword-domains&utm_content=description.top) (3,918) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.CAPITAL one word doma
 | abbatial.capital   | available | 50       | 1%     | 8      |                                             |                  |                  |
 | abc.capital        | resell    | 102      | 41%    | 3      | GoDaddy Online Services Cayman Islands Ltd. | 10/08/2015 22:35 | 10/08/2026 22:35 |
 | abdicable.capital  | available | 50       | 1%     | 9      |                                             |                  |                  |
-| abdominal.capital  | available | 82       | 1%     | 9      |                                             |                  |                  |
+| abdominal.capital  | available | 82       | 5%     | 9      |                                             |                  |                  |
 | abdominous.capital | available | 56       | 1%     | 10     |                                             |                  |                  |
 | abducens.capital   | available | 54       | 1%     | 8      |                                             |                  |                  |
 | abducent.capital   | available | 68       | 1%     | 8      |                                             |                  |                  |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.CAPITAL one word doma
 | aberdonian.capital | available | 68       | 1%     | 10     |                                             |                  |                  |
 | aberrant.capital   | available | 74       | 7%     | 8      |                                             |                  |                  |
 | abeyant.capital    | available | 56       | 2%     | 7      |                                             |                  |                  |
-| abhorrent.capital  | available | 54       | 1%     | 9      |                                             |                  |                  |
+| abhorrent.capital  | available | 54       | 3%     | 9      |                                             |                  |                  |
 | abiding.capital    | available | 106      | 5%     | 7      |                                             |                  |                  |
 | abient.capital     | available | 54       | 1%     | 6      |                                             |                  |                  |
 | abject.capital     | available | 94       | 8%     | 6      |                                             |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CAPITAL one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
