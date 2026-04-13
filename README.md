@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .capital one-word domains from Uni
 
 **Public extract:** 8,100 rows · **Live catalog:** 8,100 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/capital`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | gross.capital    | resell    | $9.99     | —             | 64             | 26     | 5      | Porkbun LLC     |
 | daily.capital    | premium   | $500      | $500          | 74             | 40     | 5      | name.com        |
 | wicked.capital   | available | $9.99     | $92.99        | 70             | 30     | 6      | name.com        |
-| acute.capital    | resell    | $9.99     | $87.99        | 112            | 12     | 5      | Dynadot Inc     |
+| acute.capital    | resell    | $9.99     | $87.99        | 112            | 11     | 5      | Dynadot Inc     |
 | review.capital   | premium   | $128.70   | $128.70       | 94             | 39     | 6      | namecheap       |
 | testing.capital  | available | $89.98    | —             | 86             | 29     | 7      | namecheap       |
 | march.capital    | resell    | —         | —             | 70             | 80     | 5      | Sav.com, LLC    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
