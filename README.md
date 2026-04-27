@@ -1,22 +1,22 @@
-# Available .CAPITAL One-Word Domains (8,101)
+# Available .CAPITAL One-Word Domains (10,790)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C103%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C101%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C790%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .capital one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .capital one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,790 domains** on the canonical page below.
 
-**Public extract:** 8,103 rows · **Live catalog:** 8,101 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,790 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/capital`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CAPITAL one-word doma
 
 ### Files
 
-- `capital.csv` — public CSV extract (8,103 rows)
-- `capital.json` — public JSON extract (8,103 rows)
+- `capital.csv` — public CSV extract (1,000 rows)
+- `capital.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| resume.capital   | available | $9.99     | $92.99        | 98             | 35     | 6      | name.com        |
-| gross.capital    | resell    | $9.99     | —             | 64             | 26     | 5      | Porkbun LLC     |
-| review.capital   | premium   | $128.70   | $128.70       | 94             | 39     | 6      | namecheap       |
-| testing.capital  | available | $89.98    | —             | 86             | 29     | 7      | namecheap       |
-| acute.capital    | resell    | $9.99     | $87.99        | 112            | 11     | 5      | Dynadot Inc     |
-| property.capital | premium   | $500      | —             | 76             | 39     | 8      | name.com        |
-| weird.capital    | available | $9.99     | $92.99        | 64             | 29     | 5      | name.com        |
-| march.capital    | resell    | —         | —             | 70             | 80     | 5      | Sav.com, LLC    |
-| daily.capital    | premium   | $500      | $500          | 74             | 39     | 5      | name.com        |
-| pony.capital     | available | $9.99     | —             | 76             | 28     | 4      | name.com        |
-| checkout.capital | resell    | —         | —             | 68             | 79     | 9      | Dynadot Inc     |
-| instant.capital  | premium   | $500      | $500          | 108            | 37     | 7      | name.com        |
-| wicked.capital   | available | $9.99     | $92.99        | 70             | 28     | 6      | name.com        |
-| wise.capital     | resell    | —         | —             | 98             | 71     | 4      | Sav.com, LLC    |
-| wine.capital     | premium   | $85.80    | $85.80        | 78             | 37     | 4      | namecheap       |
-| death.capital    | available | $9.99     | $92.99        | 62             | 28     | 5      | name.com        |
-| omega.capital    | resell    | —         | —             | 78             | 71     | 5      | Spaceship, Inc. |
-| fitness.capital  | premium   | $85.80    | $85.80        | 78             | 36     | 7      | namecheap       |
-| ugly.capital     | available | $9.99     | $92.99        | 96             | 26     | 4      | name.com        |
-| get.capital      | resell    | —         | —             | 88             | 69     | 3      | Dynadot Inc     |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| neuroscience.capital | available | $9.99     | —             | 80             | 37     | 12     | name.com          |
+| cars.capital         | resell    | —         | —             | 66             | 47     | 4      | GoDaddy.com, LLC  |
+| etc.capital          | premium   | $87.99    | —             | 58             | 34     | 3      | name.com          |
+| quotes.capital       | available | $9.99     | —             | 58             | 29     | 6      | name.com          |
+| skills.capital       | resell    | —         | —             | 58             | 47     | 6      | Dynadot Inc       |
+| toys.capital         | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo          |
+| forms.capital        | available | $9.99     | —             | 54             | 28     | 5      | name.com          |
+| goto.capital         | resell    | —         | —             | 66             | 45     | 5      | Dynadot Inc       |
+| flights.capital      | premium   | $242      | $242          | 61             | 22     | 7      | namesilo          |
+| pages.capital        | available | $9.99     | —             | 52             | 28     | 5      | name.com          |
+| RGB.capital          | resell    | —         | —             | 76             | 39     | 3      | Sav.com, LLC - 27 |
+| apartments.capital   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo          |
+| backyard.capital     | available | $9.99     | —             | 80             | 27     | 9      | name.com          |
+| Marco.capital        | resell    | —         | —             | 76             | 36     | 5      | Sav.com, LLC - 10 |
+| watches.capital      | premium   | $250      | —             | 84             | 19     | 7      | name.com          |
+| ole.capital          | available | $9.99     | —             | 74             | 26     | 3      | name.com          |
+| holidays.capital     | resell    | —         | —             | 78             | 23     | 8      | Dynadot Inc       |
+| rocks.capital        | premium   | $87.99    | —             | 78             | 18     | 5      | name.com          |
+| sites.capital        | available | $9.99     | —             | 53             | 26     | 5      | name.com          |
+| shares.capital       | resell    | —         | —             | 58             | 18     | 6      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,103-row public sample | 8,101 live domains                               |
+| 1,000-row public sample | 10,790 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
