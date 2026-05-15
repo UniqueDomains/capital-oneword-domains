@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .capital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,975 domains · **Median ask:** $17.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/capital`  
 **Best for:** founders, investors, studios
 
@@ -74,13 +74,13 @@ print(df.head())
 | goto.capital         | resell    | —         | —             | 66             | 45     | 5      | Dynadot Inc       |
 | flights.capital      | premium   | $242      | $242          | 61             | 22     | 7      | namesilo          |
 | pages.capital        | available | $9.99     | —             | 52             | 28     | 5      | name.com          |
-| RGB.capital          | resell    | —         | —             | 76             | 39     | 3      | Sav.com, LLC - 27 |
+| Marco.capital        | resell    | —         | —             | 76             | 36     | 5      | Sav.com, LLC - 10 |
 | apartments.capital   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo          |
 | backyard.capital     | available | $9.99     | —             | 80             | 27     | 9      | name.com          |
-| Marco.capital        | resell    | —         | —             | 76             | 36     | 5      | Sav.com, LLC - 10 |
+| spiral.capital       | resell    | —         | —             | 80             | 34     | 6      | NameCheap, Inc.   |
 | watches.capital      | premium   | $250      | —             | 84             | 19     | 7      | name.com          |
 | ole.capital          | available | $9.99     | —             | 74             | 25     | 3      | name.com          |
-| spiral.capital       | resell    | —         | —             | 80             | 34     | 6      | NameCheap, Inc.   |
+| RGB.capital          | resell    | —         | —             | 76             | 30     | 3      | Sav.com, LLC - 27 |
 | rocks.capital        | premium   | $87.99    | —             | 78             | 18     | 5      | name.com          |
 | schools.capital      | available | $9.99     | —             | 72             | 24     | 7      | name.com          |
 | holidays.capital     | resell    | —         | —             | 78             | 23     | 8      | Dynadot Inc       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
