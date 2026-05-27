@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .capital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,975 domains · **Median ask:** $17.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/capital`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | neuroscience.capital | available | $9.99     | —             | 80             | 37     | 12     | name.com          |
 | cars.capital         | resell    | —         | —             | 66             | 47     | 4      | GoDaddy.com, LLC  |
-| etc.capital          | premium   | $87.99    | —             | 58             | 34     | 3      | name.com          |
+| etc.capital          | premium   | $87.99    | —             | 58             | 32     | 3      | name.com          |
 | quotes.capital       | available | $9.99     | —             | 58             | 29     | 6      | name.com          |
 | skills.capital       | resell    | —         | —             | 58             | 47     | 6      | Dynadot Inc       |
 | toys.capital         | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
