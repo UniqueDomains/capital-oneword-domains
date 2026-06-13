@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .capital one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,975 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,975 domains · **Median ask:** $17.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,975 domains · **Median ask:** $15.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/capital`  
+**Last updated:** 2026-06-13
+**Canonical page:** `https://unique.domains/domains/tld/capital`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| neuroscience.capital | available | $9.99     | —             | 80             | 37     | 12     | name.com          |
-| cars.capital         | resell    | —         | —             | 66             | 47     | 4      | GoDaddy.com, LLC  |
-| etc.capital          | premium   | $87.99    | —             | 58             | 32     | 3      | name.com          |
-| quotes.capital       | available | $9.99     | —             | 58             | 29     | 6      | name.com          |
-| skills.capital       | resell    | —         | —             | 58             | 47     | 6      | Dynadot Inc       |
-| toys.capital         | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo          |
-| forms.capital        | available | $9.99     | —             | 54             | 28     | 5      | name.com          |
-| goto.capital         | resell    | —         | —             | 66             | 45     | 5      | Dynadot Inc       |
-| flights.capital      | premium   | $242      | $242          | 61             | 22     | 7      | namesilo          |
-| pages.capital        | available | $9.99     | —             | 52             | 28     | 5      | name.com          |
-| Marco.capital        | resell    | —         | —             | 76             | 36     | 5      | Sav.com, LLC - 10 |
-| apartments.capital   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo          |
-| backyard.capital     | available | $9.99     | —             | 80             | 27     | 9      | name.com          |
-| spiral.capital       | resell    | —         | —             | 80             | 34     | 6      | NameCheap, Inc.   |
-| watches.capital      | premium   | $250      | —             | 84             | 19     | 7      | name.com          |
-| ole.capital          | available | $9.99     | —             | 74             | 25     | 3      | name.com          |
-| RGB.capital          | resell    | —         | —             | 76             | 30     | 3      | Sav.com, LLC - 27 |
-| rocks.capital        | premium   | $87.99    | —             | 78             | 18     | 5      | name.com          |
-| schools.capital      | available | $9.99     | —             | 72             | 24     | 7      | name.com          |
-| holidays.capital     | resell    | —         | —             | 78             | 23     | 8      | Dynadot Inc       |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| discord.capital  | available | $9.99     | —             | 80             | 45     | 7      | name.com                                    |
+| future.capital   | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC                                |
+| share.capital    | premium   | $242      | $242          | 72             | 49     | 5      | namesilo                                    |
+| diabetes.capital | available | $9.99     | —             | 62             | 37     | 8      | name.com                                    |
+| abc.capital      | resell    | —         | —             | 102            | 51     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| help.capital     | premium   | $78.54    | $78.54        | 68             | 46     | 4      | namesilo                                    |
+| survey.capital   | available | $9.99     | —             | 90             | 36     | 6      | name.com                                    |
+| david.capital    | resell    | —         | —             | 74             | 47     | 5      | Dynadot Inc                                 |
+| NYC.capital      | premium   | $500      | —             | 82             | 42     | 3      | name.com                                    |
+| process.capital  | available | $9.99     | —             | 94             | 35     | 7      | name.com                                    |
+| car.capital      | resell    | —         | —             | 94             | 46     | 3      | NameCheap, Inc.                             |
+| fit.capital      | premium   | $118.80   | $118.80       | 88             | 41     | 3      | namesilo                                    |
+| Mario.capital    | available | $9.99     | —             | 90             | 35     | 5      | name.com                                    |
+| micro.capital    | resell    | —         | —             | 66             | 44     | 5      | Dynadot Inc                                 |
+| spot.capital     | premium   | $123.75   | —             | 72             | 39     | 4      | name.com                                    |
+| spam.capital     | available | $9.99     | —             | 58             | 34     | 4      | name.com                                    |
+| bee.capital      | resell    | —         | —             | 70             | 43     | 3      | GoDaddy.com, LLC                            |
+| property.capital | premium   | $500      | —             | 76             | 38     | 8      | name.com                                    |
+| always.capital   | available | $9.99     | —             | 80             | 31     | 6      | name.com                                    |
+| story.capital    | resell    | —         | —             | 70             | 43     | 5      | Edomains LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-06-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
