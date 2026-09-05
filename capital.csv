@@ -153,7 +153,7 @@ c24c678c-4e88-4a70-97bf-9b288a117d3e,rile.capital,available,9.99,,medium,low,4,n
 5757a05f-4faf-40fe-8a77-888ffcde3f4e,dowhat.capital,available,9.99,,medium,low,7,name.com,,
 a47f1e03-af00-4e48-a14b-2e2975e07c3f,sheorhe.capital,available,9.99,,low,low,9,name.com,,
 13bcf801-81d7-4be6-9464-1046b8c9ac02,fervid.capital,available,8.98,89.98,low,low,6,namecheap,,
-3f525340-9846-4e1e-90fe-42a0d87be687,computerchip.capital,available,9.99,,high,low,13,name.com,,
+3f525340-9846-4e1e-90fe-42a0d87be687,computerchip.capital,available,8.98,89.98,low,low,13,namecheap,,
 daaf6daa-8586-466a-8f04-d4722574db1e,tornadoshelter.capital,available,9.99,,medium,low,15,name.com,,
 7b35a8f8-5f58-46f7-b08a-aa29ec574ecb,certificate.capital,available,9.99,,high,low,11,name.com,,
 47199a02-c756-4420-b2b0-df46667bce33,lorditover.capital,available,9.99,,medium,low,12,name.com,,
@@ -312,7 +312,7 @@ a857fd8c-a4e5-4f36-879d-fcc8dc1b912a,playdate.capital,available,9.99,,medium,low
 3a077c15-944a-44f6-ac35-927c4cfe1ebe,WorldExpo.capital,available,9.99,,low,low,10,name.com,,
 807dca53-1bb0-413c-97ab-b505e443ecb6,badmintoncourt.capital,available,9.99,,high,low,15,name.com,,
 97f39d0e-8a1a-456a-a38d-cbef84abd298,fruity.capital,available,8.98,89.98,medium,low,6,namecheap,,
-343195b5-6c39-4297-8d27-4bbc47bbfbaf,pyramid.capital,resell,,,high,low,7,"Sav.com, LLC - 8",23/07/2025 15:15,23/07/2026 15:15
+343195b5-6c39-4297-8d27-4bbc47bbfbaf,pyramid.capital,resell,,,medium,low,7,"Sav.com, LLC - 8",23/07/2025 15:15,23/07/2027 15:15
 2bfda628-9817-49dd-a781-9441ac748496,astimesgo.capital,available,9.99,,medium,low,11,name.com,,
 ea52034e-b230-4b9e-be44-faf6efe869fc,gummyworm.capital,available,9.99,,high,low,10,name.com,,
 86eef65a-625b-4898-a968-b395a297bdfd,unwell.capital,available,8.98,89.98,low,low,6,namecheap,,
@@ -414,7 +414,7 @@ c6f77b60-189d-4289-84fd-afaa7d1911ec,crap.capital,available,9.99,,medium,low,4,n
 b71bbd6c-a32a-4ec5-af98-e74262f2d8a3,readmylips.capital,available,9.99,,low,low,12,name.com,,
 44c41277-b60d-43b6-9d4f-936f70a5c793,ataractic.capital,available,8.98,89.98,low,low,9,namecheap,,
 22b674d5-ed4e-430a-94fd-33218a5411cc,stayloose.capital,available,9.99,,low,low,10,name.com,,
-abfdc1d3-dd6d-41fd-a3ce-9406d6b75130,atthisjuncture.capital,available,9.99,,medium,low,16,name.com,,
+abfdc1d3-dd6d-41fd-a3ce-9406d6b75130,atthisjuncture.capital,available,8.98,89.98,low,low,16,namecheap,,
 89441b4c-8f9a-4328-8aeb-dda27b1a3c04,favorite.capital,available,9.99,92.99,medium,low,8,name.com,,
 11c1258d-ce03-4dc2-bacc-86f9ee51f7a6,applied.capital,premium,118.8,118.8,low,low,7,namesilo,,
 0831ad0c-c16b-4f8f-bbfa-289471c787af,recommendation.capital,available,9.99,,low,low,14,name.com,,
@@ -707,7 +707,7 @@ c378b097-40d7-4366-bd35-1b97adae439a,lxv.capital,resell,,,medium,low,3,"NameChea
 f4f01a04-fd29-436a-9275-51516a430969,medical.capital,premium,123.75,123.75,high,low,7,name.com,,
 83c0bd53-ef53-466d-87cd-8f12e46d1e60,astheysay.capital,available,9.99,,medium,low,11,name.com,,
 7e96ae49-96a6-40bf-aa90-9aee99e2e1d9,decade.capital,available,9.99,,high,low,6,name.com,,
-a83add14-0ad4-4db8-b496-4a355029bd5d,check.capital,resell,,,medium,low,5,Dynadot Inc,11/06/2026 17:00,11/06/2027 17:00
+a83add14-0ad4-4db8-b496-4a355029bd5d,check.capital,resell,,,medium,medium,5,Dynadot Inc,11/06/2026 17:00,11/06/2027 17:00
 4bd0bf1b-a34b-4bfe-bf4e-4f923d48ec49,poundcake.capital,available,9.99,,medium,low,10,name.com,,
 7eea19d0-3f5e-4c75-aa36-c73384c43c26,stung.capital,available,8.98,89.98,low,low,5,namecheap,,
 cf993d09-8346-475a-9cb9-2fd009f67299,ladiesfirst.capital,available,9.99,,medium,low,12,name.com,,
@@ -806,6 +806,7 @@ c53e80f1-8fb4-42de-bd12-e548a35d352d,banging.capital,available,8.98,89.98,low,lo
 f06a8449-4ac7-4a2e-8110-84f427a9c03e,acneiform.capital,available,8.98,89.98,low,low,9,namecheap,,
 7ee776b9-eb86-4158-bf81-a7117d14b119,etch.capital,available,9.99,,high,low,4,name.com,,
 b7da9138-d5f6-4b9e-85b5-3ad82d2b6481,assisted.capital,available,9.99,92.99,medium,low,8,name.com,,
+2dbaa233-ec38-4e7e-97a6-2f334520c9cc,recovery.capital,resell,,,medium,low,8,Dynadot Inc,01/07/2026 17:00,01/07/2027 17:00
 9da602ee-83b7-4d4d-b6f6-577f3aa7230b,perform.capital,available,9.99,,high,low,7,name.com,,
 fd40a949-c7fb-4b27-b8a8-821736dac248,aliform.capital,available,8.98,89.98,low,low,7,namecheap,,
 2713a7df-d6bf-4c18-a1f7-dd82e858ef85,childlabor.capital,available,9.99,,medium,low,11,name.com,,
@@ -998,4 +999,3 @@ e6f002f5-9fb2-4b10-94fd-bf71081fa762,beery.capital,available,8.98,89.98,low,low,
 fca47a02-5fff-4a1d-87d0-437acb776541,quantities.capital,available,9.99,,low,low,10,name.com,,
 091346d3-f574-4ff3-aff3-808e46f343d5,briefcase.capital,available,9.99,,high,low,9,name.com,,
 ca09182c-f418-4d10-8ab0-c4572e54fed7,smartphone.capital,available,9.99,,high,low,10,name.com,,
-ab1f5808-b764-4bf3-ac3e-c0b4c5edf1b3,closer.capital,available,9.99,,high,low,6,name.com,,
