@@ -312,7 +312,6 @@ a857fd8c-a4e5-4f36-879d-fcc8dc1b912a,playdate.capital,available,9.99,,medium,low
 3a077c15-944a-44f6-ac35-927c4cfe1ebe,WorldExpo.capital,available,9.99,,low,low,10,name.com,,
 807dca53-1bb0-413c-97ab-b505e443ecb6,badmintoncourt.capital,available,9.99,,high,low,15,name.com,,
 97f39d0e-8a1a-456a-a38d-cbef84abd298,fruity.capital,available,8.98,89.98,medium,low,6,namecheap,,
-343195b5-6c39-4297-8d27-4bbc47bbfbaf,pyramid.capital,resell,,,medium,low,7,"Sav.com, LLC - 8",23/07/2025 15:15,23/07/2027 15:15
 2bfda628-9817-49dd-a781-9441ac748496,astimesgo.capital,available,9.99,,medium,low,11,name.com,,
 ea52034e-b230-4b9e-be44-faf6efe869fc,gummyworm.capital,available,9.99,,high,low,10,name.com,,
 86eef65a-625b-4898-a968-b395a297bdfd,unwell.capital,available,8.98,89.98,low,low,6,namecheap,,
@@ -328,6 +327,7 @@ c373cec6-e6cb-4288-8d91-4ca63aa5cab3,drawing.capital,available,9.99,,high,low,7,
 58c37ef0-7dfa-4396-b482-c82004f2f65e,deviant.capital,available,8.98,89.98,low,low,7,namecheap,,
 7169be89-8a70-4368-935d-de3481e395f0,decent.capital,resell,,,low,low,6,"Sav.com, LLC - 29",13/07/2025 15:15,13/07/2027 15:15
 95ba8b05-0e68-4f10-98a0-e302e46c6018,chanukkah.capital,available,9.99,,medium,low,9,name.com,,
+20c6d818-097a-41c1-ac2b-0f3eaf3adae8,rural.capital,available,8.98,89.98,medium,low,5,namecheap,,
 206f5ddb-1558-4f64-becc-287b222fde48,havethelastlaugh.capital,available,9.99,,high,low,19,name.com,,
 d8969ace-02b1-48dd-993b-f75b9fb7cd14,micro.capital,resell,,,medium,medium,5,Dynadot Inc,02/09/2015 16:00,02/09/2026 16:00
 e4882f5d-9a83-4dc8-ad17-6cbb45929935,mynameis.capital,available,9.99,,low,low,10,name.com,,
@@ -546,7 +546,7 @@ ce1b7806-fe21-4d1f-b878-9021d879cefe,mentioned.capital,available,9.99,,medium,lo
 199e3bcb-d061-4cb7-af04-693bcea34ac5,mousearound.capital,available,9.99,,low,low,12,name.com,,
 07e58676-22ca-4ea9-a05e-5c5d94fd77bb,awing.capital,available,8.98,89.98,low,low,5,namecheap,,
 43e30e3d-a529-4589-bdb4-414db62278d5,iconic.capital,resell,,,high,low,6,"Spaceship, Inc.",30/05/2025 15:15,30/05/2027 15:15
-96eaa40c-21d7-4e1f-bb6f-e32da55638e3,clearance.capital,available,9.99,,medium,low,9,name.com,,
+96eaa40c-21d7-4e1f-bb6f-e32da55638e3,clearance.capital,resell,9.99,,medium,low,9,"Spaceship, Inc.",22/07/2026 08:34,22/07/2027 08:34
 0d1df02c-197e-4a17-b0a7-01d508b9bfc9,strongpersonality.capital,available,9.99,,high,low,18,name.com,,
 ffe28bfb-a08f-4b16-9907-d011b88a71ad,marvellous.capital,available,9.99,,high,low,10,name.com,,
 166d7adf-eba7-4c56-bdf9-e911ebe43405,appetising.capital,available,8.98,89.98,low,low,10,namecheap,,
