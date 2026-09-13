@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .capital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,515 domains · **Median ask:** $12.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/capital`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| sorry.capital     | available | $9.99     | $92.99        | high           | low    | 5      | name.com                                    |
-| off.capital       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
-| shot.capital      | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
 | bce.capital       | available | $9.99     | —             | medium         | low    | 3      | name.com                                    |
 | clearance.capital | resell    | $9.99     | —             | medium         | low    | 9      | Spaceship, Inc.                             |
 | ago.capital       | premium   | $250      | $250          | medium         | low    | 3      | name.com                                    |
@@ -84,6 +81,9 @@ print(df.head())
 | lay.capital       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
 | tub.capital       | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
 | lxv.capital       | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                             |
+| LLP.capital       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| xix.capital       | available | $9.99     | $92.99        | high           | low    | 3      | name.com                                    |
+| man.capital       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
