@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .capital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,791 domains · **Median ask:** $11.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/capital`
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | mao.capital       | available | $9.99     | —             | medium         | low    | 3      | name.com                                    |
 | car.capital       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                             |
 | fit.capital       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
-| MMR.capital       | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| mmr.capital       | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
 | egg.capital       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | lay.capital       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
 | tub.capital       | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
-| lxv.capital       | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                             |
-| LLP.capital       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| man.capital       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
+| llp.capital       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
