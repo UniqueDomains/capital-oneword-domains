@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .capital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,549 domains · **Median ask:** $11.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/capital`
 **Best for:** founders, investors, studios
 
@@ -69,19 +69,19 @@ print(df.head())
 | clearance.capital | resell    | $9.99     | —             | medium         | low    | 9      | Spaceship, Inc.  |
 | ago.capital       | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
 | jot.capital       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| bee.capital       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| immediate.capital | resell    | $9.99     | —             | medium         | low    | 9      | name.com         |
 | bed.capital       | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | kgb.capital       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| car.capital       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| bee.capital       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | cup.capital       | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
 | mao.capital       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
-| egg.capital       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| car.capital       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
 | fit.capital       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | mmr.capital       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| man.capital       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| egg.capital       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | lay.capital       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 | tub.capital       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| oak.capital       | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.  |
+| man.capital       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
 | llp.capital       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | xix.capital       | available | $10.99    | $71.99        | medium         | low    | 3      | namesilo         |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAPITAL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
